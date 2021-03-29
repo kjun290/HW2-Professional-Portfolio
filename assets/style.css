@@ -23,6 +23,7 @@ body {
 
 	.footer {
 		grid-area: footer;
+    text-align: center;
 	}
 
 	.wrapper {
@@ -146,6 +147,7 @@ body {
 .footer a:link {
   text-decoration: none;
   color:#ffffff;
+  display: grid
 }
 
 .footer {
@@ -158,6 +160,7 @@ body {
 .footer h2 {
   font-weight: bolder;
   font-size: 24pt;
+  text-align: center;
 }
 
 .footer p {
