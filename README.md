@@ -1,12 +1,9 @@
-# HW2-Professional-Portfolio
-Week 2 homework - Professional portfolio
+# Professional-Portfolio
+Professional portfolio
 
-This is a virtual portfolio and resume of my projects and works that can be shared to future employers. Currents the photos are not linked to projects, but will be when applications are created for each selection. 
+This is a virtual portfolio and resume of my projects and works that I was completed during my Coding Bootcamp through Northwestern University. These are a few samples of my front end application that I have completed.
+
+![professionalprofile](https://user-images.githubusercontent.com/73242250/112911308-c0545080-90ba-11eb-9718-2e2c2323473c.png)
 
 
-Pictures were taken from:
-  LED Wall: https://www.matrixvisual.com/benefits-led-walls-versus-projection-displays/
-  Calculator: https://www.wonderopolis.org/wonder/how-does-a-calculator-work
-  Puzzle: https://www.technologyreview.com/2020/02/04/349141/how-instagram-is-making-jigsaw-puzzles-cool-again/
-  running shoes: https://www.dynafit.com/en-us/women/footwear/running-shoes
-  
+
