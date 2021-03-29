@@ -130,10 +130,6 @@ body {
   
 }
 
-.wrap{
-  
-  
-}
 .imgText{
   background-color: blue;
   position: absolute;
@@ -168,7 +164,7 @@ body {
   justify-content: center;
   float:left;
   text-align: center;
-  color: ;
+  color: #ffffff;
   font-weight: bold;
   
 }
