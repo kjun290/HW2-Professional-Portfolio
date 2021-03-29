@@ -1,5 +1,5 @@
 # HW2-Professional-Portfolio
-Week 2 homework - Professional portfolio
+Professional portfolio
 
 This is a virtual portfolio and resume of my projects and works that I was completed during my Coding Bootcamp through Northwestern University. These are a few samples of my front end application that I have completed.
 
